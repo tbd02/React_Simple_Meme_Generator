@@ -30,7 +30,7 @@ export default function Meme(){
     // function getMemeImage(){
     //     const memesArray = memesData.data.memes
     //     const randomNumber = Math.floor(Math.random() * memesArray.length) 
-    //     // math.floor round smallest integer number, math.random pick number from 0-1, times with 100 (which is the array length) -> results will be the position of the data in the array.
+    // math.floor round smallest integer number, math.random pick number from 0-1, times with 100 (which is the array length) -> results will be the position of the data in the array.
     //     setMemeImage(memesArray[randomNumber].url)       
     // }
     
